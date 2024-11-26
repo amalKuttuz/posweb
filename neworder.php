@@ -225,7 +225,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['place_order'])) {
 
 
                     <li class="nav-item">
-                        <a href="orders.php" class="nav-link active">
+                        <a href="orders.php" class="nav-link ">
                             <i class="nav-icon fas fa-sort-amount-up"></i>
                             <p>
                                 Orders
@@ -234,7 +234,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['place_order'])) {
                         </a>
                     </li>
                     <li class="nav-item">
-            <a href="neworder.php" class="nav-link">
+            <a href="neworder.php" class="nav-link active">
               <i class="nav-icon fas fa-sort-amount-up"></i>
               <p>
                 POS
