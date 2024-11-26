@@ -10,7 +10,9 @@ include('db_connect.php');
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['add_to_cart'])) {
     $product_id = $_POST['product_id'];
     $quantity = intval($_POST['quantity']);
-
+    if (!isset($_SESSION['last_added_product'])) {
+        $_SESSION['last_added_product'] = null;
+    }
     if ($_SESSION['last_added_product'] !== $product_id || empty($_SESSION['last_added_product'])) {
         // Use prepared statements for security
         $stmt = $con->prepare("SELECT * FROM products WHERE product_id = ?");
@@ -57,9 +59,19 @@ if (isset($_GET['remove'])) {
 
 // Calculate total pricee
 $total_price = 0;
-foreach ($_SESSION['cart'] as $cart_item) {
-    $total_price += $cart_item['total'];
+
+if (!empty($_SESSION['cart'])) {
+    foreach ($_SESSION['cart'] as $item) {
+        foreach ($_SESSION['cart'] as $cart_item) {
+            $total_price += $cart_item['total'];
+        }    }
+} else {
+    // Display a message like "Your cart is empty."
+    
 }
+
+
+
 
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['place_order'])) {
     $invoice_id = uniqid();
