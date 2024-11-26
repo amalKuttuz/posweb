@@ -7,22 +7,11 @@ if (!isset($_SESSION['email']) || !isset($_SESSION['user_type']) || !isset($_SES
 
 include('db_connect.php');
 
-// Initialize the cart if it doesn't exist
-if (!isset($_SESSION['cart'])) {
-    $_SESSION['cart'] = [];
-}
-
-// Prevent adding the same item multiple times on refresh
-if (!isset($_SESSION['last_added_product'])) {
-    $_SESSION['last_added_product'] = null;
-}
-
-// Handle adding products to the cart
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['add_to_cart'])) {
     $product_id = $_POST['product_id'];
     $quantity = intval($_POST['quantity']);
 
-    if ($_SESSION['last_added_product'] !== $product_id) {
+    if ($_SESSION['last_added_product'] !== $product_id || empty($_SESSION['last_added_product'])) {
         // Use prepared statements for security
         $stmt = $con->prepare("SELECT * FROM products WHERE product_id = ?");
         $stmt->bind_param("s", $product_id);
@@ -30,30 +19,35 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['add_to_cart'])) {
         $result = $stmt->get_result();
 
         if ($row = $result->fetch_assoc()) {
-            $item = [
-                'id' => $row['product_id'],
-                'name' => $row['product_name'],
-                'price' => $row['product_sell_price'],
-                'quantity' => $quantity,
-                'total' => $row['product_sell_price'] * $quantity
-            ];
-
-            // Check if the item already exists in the cart
+            // If the product is already in the cart, update its quantity and total
             if (isset($_SESSION['cart'][$product_id])) {
                 $_SESSION['cart'][$product_id]['quantity'] += $quantity;
                 $_SESSION['cart'][$product_id]['total'] = $_SESSION['cart'][$product_id]['quantity'] * $_SESSION['cart'][$product_id]['price'];
             } else {
+                // Otherwise, add it as a new item
+                $item = [
+                    'id' => $row['product_id'],
+                    'name' => $row['product_name'],
+                    'price' => $row['product_sell_price'],
+                    'quantity' => $quantity,
+                    'total' => $row['product_sell_price'] * $quantity
+                ];
                 $_SESSION['cart'][$product_id] = $item;
             }
 
+            // Update the session to prevent duplicate addition
             $_SESSION['last_added_product'] = $product_id;
         } else {
             echo "<script>Swal.fire('Error!', 'Product not found.', 'error');</script>";
         }
 
         $stmt->close();
+    } else {
+        echo "<script>Swal.fire('Info!', 'Product already added. Please update quantity directly.', 'info');</script>";
     }
 }
+
+
 
 // Handle removing items from the cart
 if (isset($_GET['remove'])) {
@@ -67,7 +61,6 @@ foreach ($_SESSION['cart'] as $cart_item) {
     $total_price += $cart_item['total'];
 }
 
-// Handle order submission
 if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['place_order'])) {
     $invoice_id = uniqid();
     $order_date = date('Y-m-d');
@@ -78,31 +71,36 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['place_order'])) {
     $discount = isset($_POST['discount']) ? floatval($_POST['discount']) : 0;
     $tax = isset($_POST['tax']) ? floatval($_POST['tax']) : 0;
 
-    // Apply discount and tax
+    // Calculate the final price
     $final_price = $total_price - $discount + $tax;
 
+    // Insert into order_list
     $stmt = $con->prepare("INSERT INTO order_list (invoice_id, order_date, order_time, order_type, order_payment_method, order_price, discount, tax, customer_name, served_by) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
     $stmt->bind_param("sssssdidss", $invoice_id, $order_date, $order_time, $order_type, $payment_method, $final_price, $discount, $tax, $customer_name, $_SESSION['email']);
-    $stmt->execute();
+    
+    if ($stmt->execute()) {
+        // Insert into order_details for each cart item
+        foreach ($_SESSION['cart'] as $item) {
+            $stmt_detail = $con->prepare("INSERT INTO order_details (invoice_id, product_name, product_quantity, product_weight, product_price, product_order_date, product_id) VALUES (?, ?, ?, ?, ?, ?, ?)");
+            $weight = 'N/A'; // Assuming weight is not provided
+            $stmt_detail->bind_param("ssisdss", $invoice_id, $item['name'], $item['quantity'], $weight, $item['price'], $order_date, $item['id']);
+            $stmt_detail->execute();
+            $stmt_detail->close(); // Close the statement for each iteration to avoid reuse issues
+        }
+        
+        // Clear the cart after successful order placement
+        unset($_SESSION['cart']);
+        $_SESSION['last_added_product'] = null;
 
-    foreach ($_SESSION['cart'] as $item) {
-        $stmt = $con->prepare("INSERT INTO order_details (invoice_id, product_name, product_quantity, product_weight, product_price, product_order_date, product_id) VALUES (?, ?, ?, ?, ?, ?, ?)");
-        $weight = 'N/A'; // Assuming weight is not provided
-        $stmt->bind_param("ssisdss", $invoice_id, $item['name'], $item['quantity'], $weight, $item['price'], $order_date, $item['id']);
-        $stmt->execute();
-    }
-
-    unset($_SESSION['cart']); // Clear cart
-      // Redirect to invoice page after successful order
-    if ($stmt->execute()) { // Check if order insertion was successful
-        $invoice_url = "invoice.php?id=" . $invoice_id;
-        header("Location: $invoice_url");
-        exit;
+        // Redirect to the invoice page
+        header("Location: invoice.php?id=" . $invoice_id);
+        exit();
     } else {
         echo "<script>Swal.fire('Error!', 'Order placement failed.', 'error');</script>";
-  }
-
+    }
+    $stmt->close();
 }
+
 ?>
 
 <!DOCTYPE html>
