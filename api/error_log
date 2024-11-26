@@ -1,0 +1,346 @@
+[26-Sep-2024 17:47:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 17:51:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 17:52:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 17:53:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 18:01:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 18:06:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 18:06:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[26-Sep-2024 18:07:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[27-Sep-2024 02:22:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[27-Sep-2024 16:24:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 11:01:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 11:16:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 11:17:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 11:20:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 12:36:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 12:36:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 14:12:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[28-Sep-2024 14:13:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 06:55:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 07:00:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 14:38:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 15:07:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 15:09:24 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:24 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:24 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:24 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:24 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:27 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:27 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:27 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[29-Sep-2024 15:09:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[29-Sep-2024 15:11:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[30-Sep-2024 14:34:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[30-Sep-2024 14:37:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[02-Oct-2024 10:31:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[02-Oct-2024 14:45:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[02-Oct-2024 15:02:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[02-Oct-2024 15:07:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[02-Oct-2024 16:43:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "lines" in /home/keramfvp/test.keralify.com/api/orders_submit.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/orders_submit.php on line 33
+[05-Oct-2024 03:38:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:38:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:38:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:38:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:39:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,5,'1728099560.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:39:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099572.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:39:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099594.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:40:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099607.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:40:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099629.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:41:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099668.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:41:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099709.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:41:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099716.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:42:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099721.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:42:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099742.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:42:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099746.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:42:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099774.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:43:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728099787.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:57:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728100641.png',)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:58:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728100706.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 03:58:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728100734.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[05-Oct-2024 04:16:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookies',30,30,'100',1,21,'1728101789.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[08-Oct-2024 07:33:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookie ',30,30,'120',1,21,'1728372830.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[08-Oct-2024 07:34:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookie ',30,30,'120',1,21,'1728372842.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[08-Oct-2024 07:34:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's best moulded choco chip cookie ',30,30,'120',1,21,'1728372865.png',1000)' at line 1 in /home/keramfvp/test.keralify.com/api/add_product.php:43
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/add_product.php(43): mysqli_query()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/add_product.php on line 43
+[16-Oct-2024 00:30:53 UTC] PHP Warning:  Undefined variable $conn in /home/keramfvp/test.keralify.com/api/delete_product.php on line 24
+[16-Oct-2024 00:30:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/keramfvp/test.keralify.com/api/delete_product.php:24
+Stack trace:
+#0 /home/keramfvp/test.keralify.com/api/delete_product.php(24): mysqli_close()
+#1 {main}
+  thrown in /home/keramfvp/test.keralify.com/api/delete_product.php on line 24
+[08-Nov-2024 12:17:07 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:07 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:13 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:13 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:19 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:19 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:17:36 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:48 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:48 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:54 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:54 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:56 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:56 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:56 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:56 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[08-Nov-2024 12:18:56 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:16 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[09-Nov-2024 05:47:20 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:53 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:53 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:53 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:53 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:53 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:58 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:11:58 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:07 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:07 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:09 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:10 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:11 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:11 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:11 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:11 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:11 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:15 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:15 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:17 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
+[10-Nov-2024 17:12:18 UTC] PHP Warning:  Undefined array key "product_supplier" in /home/keramfvp/test.keralify.com/api/search_product.php on line 31
