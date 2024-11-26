@@ -55,7 +55,7 @@ if (isset($_GET['remove'])) {
     unset($_SESSION['cart'][$remove_id]);
 }
 
-// Calculate total price
+// Calculate total pricee
 $total_price = 0;
 foreach ($_SESSION['cart'] as $cart_item) {
     $total_price += $cart_item['total'];
